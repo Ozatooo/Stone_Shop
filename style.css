@@ -11,7 +11,6 @@
 #bar{
     height: 50px;
     background-color: rgb(189, 176, 176);
-
 }
 
 #bar-text{
@@ -27,7 +26,7 @@
 #register{
     background-color: rgb(63, 59, 59);
     color: lavender;
-    height: 500px;
+    height: 500vw;
 }
 
 #submit-button{
@@ -39,7 +38,7 @@
     height: 30px;
 }
 
-#info-container{
+.info-container{
     border-top: 0px;
     border-left: 0px;
     border-right: 0px;
@@ -54,7 +53,7 @@ input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{
     margin: 0;
 }
 
-#info-container:focus{
+.info-container:focus{
     border-color: rgb(63, 59, 59);
 }
 
